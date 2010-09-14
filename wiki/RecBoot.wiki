@@ -4,8 +4,15 @@
 = Introduction =
 
 RecBoot- a utility which allows the user, you, to kick the connected device(s) into and out of recovery mode.
+Created by The Core-Dev Team. (http://thecoredevteam.tk/)
 
 
-= Details =
+== Mac ==
+Download: http://fwdr.org/lx9q
+For 10.4.x or PowerPC users, look at this page: http://fwdr.org/de0h
 
-For 10.4.x or PowerPC users, look at this page: http://www.sebby.net/671-recboot-10-4-x/
+==Windows==
+Download: http://fwdr.org/ry6r
+
+==Linux==
+Download: http://fwdr.org/bc2u
