@@ -15,6 +15,17 @@ For 10.4.x or PowerPC users, look at this page: http://fwdr.org/de0h
 
 ==Windows==
 Download: http://fwdr.org/ry6r
+<br />
+<br />
+Requirements:
+<br />
+.NET Framework v4.0
+<br />
+LibUSB (only if you want recovery detection, otherwise not needed)
+<br />
+iTunes 9.2 or later
+<br />
+NOTE: Thanks to a comment by a user, RecBoot has not been known to work on 64 bit machines. DO NOT USE IT ON x64!
 
 ==Linux==
 Download: http://fwdr.org/bc2u
