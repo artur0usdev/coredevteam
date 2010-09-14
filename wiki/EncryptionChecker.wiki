@@ -1,4 +1,4 @@
-#summary Info about Encryption Checker
+#summary Info about Encryption Checker.
 
 = Introduction =
 
