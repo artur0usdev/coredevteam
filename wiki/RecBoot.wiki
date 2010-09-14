@@ -1,0 +1,11 @@
+#summary Info about Recboot.
+#labels Featured
+
+= Introduction =
+
+RecBoot- a utility which allows the user, you, to kick the connected device(s) into and out of recovery mode.
+
+
+= Details =
+
+For 10.4.x or PowerPC users, look at this page: http://www.sebby.net/671-recboot-10-4-x/
