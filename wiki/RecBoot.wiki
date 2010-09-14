@@ -5,16 +5,16 @@
 
 RecBoot- a utility which allows the user, you, to kick the connected device(s) into and out of recovery mode.
 <br />
-Created by The Core-Dev Team. (http://thecoredevteam.tk/)
+Created by <b>The Core-Dev Team</b>. (http://thecoredevteam.tk/)
 
 
 == Mac ==
-Download: http://fwdr.org/lx9q
+<b>Download:</b> http://fwdr.org/lx9q
 <br />
 For 10.4.x or PowerPC users, look at this page: http://fwdr.org/de0h
 
 ==Windows==
-Download: http://fwdr.org/ry6r
+<b>Download:</b> http://fwdr.org/ry6r
 <br />
 <br />
 <b>Requirements:</b>
@@ -28,6 +28,6 @@ iTunes 9.2 or later
 <b>NOTE:</b> Thanks to a comment by a user, RecBoot has not been known to work on 64 bit machines. <b>DO NOT USE IT ON x64!</b>
 
 ==Linux==
-Download: http://fwdr.org/bc2u
+<b>Download:</b> http://fwdr.org/bc2u
 <br />
-Source: http://fwdr.org/rq7q
+<b>Source:</b> http://fwdr.org/rq7q
