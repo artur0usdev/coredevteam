@@ -1,0 +1,13 @@
+# Introduction #
+
+Encryption Checker-  a one click solution for generating SHA1/MD5 hashes.
+
+
+## Windows ##
+<b>Download:</b> http://fwdr.org/ib0n
+
+## Mac ##
+<b>Download:</b> http://fwdr.org/vn4i
+
+## Source ##
+<b>Download:</b> http://fwdr.org/do6e

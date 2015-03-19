@@ -1,0 +1,30 @@
+# Introduction #
+
+RecBoot- a utility which allows the user, you, to kick the connected device(s) into and out of recovery mode.
+<br />
+Created by <b>The Core-Dev Team</b>. (http://thecoredevteam.tk/)
+
+
+## Mac ##
+<b>Download:</b> http://fwdr.org/sn3s
+<br />
+For 10.4.x or PowerPC users, look at this page: http://fwdr.org/de0h
+
+## Windows ##
+<b>Download:</b> http://fwdr.org/xm9f
+<br />
+<br />
+<b>Requirements:</b>
+<br />
+.NET Framework v4.0
+<br />
+LibUSB (only if you want recovery detection, otherwise not needed)
+<br />
+iTunes 9.2 or later
+<br />
+<b>NOTE:</b> Thanks to a comment by a user, RecBoot has not been known to work on 64 bit machines. <b>DO NOT USE IT ON x64!</b>
+
+## Linux ##
+<b>Download:</b> http://fwdr.org/bs0t
+<br />
+<b>Source:</b> http://fwdr.org/ca8l
